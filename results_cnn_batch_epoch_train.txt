@@ -1,0 +1,12 @@
+Train size: 0.8; Epoch: 15; Batch: 128; Accuracy: 0.6952000260353088; Test loss: 0.9859299659729004; Training time: 33.73355960845947 seconds 
+Train size: 0.8; Epoch: 15; Batch: 256; Accuracy: 0.7135999798774719; Test loss: 0.8452927470207214; Training time: 21.290614366531372 seconds 
+Train size: 0.8; Epoch: 15; Batch: 512; Accuracy: 0.6816999912261963; Test loss: 0.924227237701416; Training time: 18.489930629730225 seconds 
+Train size: 0.8; Epoch: 20; Batch: 128; Accuracy: 0.7002000212669373; Test loss: 1.1104350090026855; Training time: 36.172486782073975 seconds 
+Train size: 0.8; Epoch: 20; Batch: 256; Accuracy: 0.7174000144004822; Test loss: 0.8764244914054871; Training time: 27.723389863967896 seconds 
+Train size: 0.8; Epoch: 20; Batch: 512; Accuracy: 0.6859999895095825; Test loss: 0.9164378046989441; Training time: 23.937740087509155 seconds 
+Train size: 0.8; Epoch: 25; Batch: 128; Accuracy: 0.7060999870300293; Test loss: 1.3463256359100342; Training time: 44.58140587806702 seconds 
+Train size: 0.8; Epoch: 25; Batch: 256; Accuracy: 0.7172999978065491; Test loss: 0.9590943455696106; Training time: 34.372931480407715 seconds 
+Train size: 0.8; Epoch: 25; Batch: 512; Accuracy: 0.6930000185966492; Test loss: 0.9022955298423767; Training time: 29.639307975769043 seconds 
+Train size: 0.8; Epoch: 30; Batch: 128; Accuracy: 0.7045999765396118; Test loss: 1.6706035137176514; Training time: 53.47191143035889 seconds 
+Train size: 0.8; Epoch: 30; Batch: 256; Accuracy: 0.7249000072479248; Test loss: 1.1617926359176636; Training time: 41.08942723274231 seconds 
+Train size: 0.8; Epoch: 30; Batch: 512; Accuracy: 0.7253999710083008; Test loss: 0.8331961631774902; Training time: 35.143346309661865 seconds 
